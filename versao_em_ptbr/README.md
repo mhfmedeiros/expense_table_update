@@ -16,7 +16,7 @@ Para compilar e executar o programa, você precisa de um compilador C, como `gcc
 
 Cada despesa é armazenada com os seguintes campos:
 
-- `date`: Data da despesa, no formato "mm/dd/aaaa".
+- `date`: Data da despesa, no formato "dd/mm/aaaa".
 - `category`: Um número entre 1 e 9 indicando a categoria da despesa.
 - `description`: Descrição breve da despesa, com até 300 caracteres.
 - `amount`: Valor da despesa (use vírgula `,` para separar as casas decimais, se aplicável).
