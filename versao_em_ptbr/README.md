@@ -1,6 +1,6 @@
 # Tabela de Gastos
 
-Este projeto é um programa em C para registrar e gerenciar despesas pessoais em um arquivo CSV. Ele permite criar uma tabela de gastos com data, tipo, descrição e valor, facilitando o controle financeiro.
+Este projeto é um programa em C para registrar despesas pessoais em um arquivo CSV. Ele permite criar uma tabela de gastos com data, tipo, descrição e valor, facilitando o controle financeiro.
 
 ## Funcionalidades
 
