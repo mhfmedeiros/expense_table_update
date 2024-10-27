@@ -1,6 +1,6 @@
 # Expense Table
 
-This project is a C program for recording and managing personal expenses in a CSV file. It allows the user to create a table of expenses categorized by date, type, description, and amount, making it easier to keep track of personal finances.
+This project is a C program for recording personal expenses in a CSV file. It allows the user to create a table of expenses categorized by date, type, description, and amount, making it easier to keep track of personal finances.
 
 ## Features
 
